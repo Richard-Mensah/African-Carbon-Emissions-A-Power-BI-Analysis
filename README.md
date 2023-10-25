@@ -11,6 +11,7 @@ Certainly, here are headings for your article with suggested picture captions fo
 ![Image](global.jpg)
 
 2. **Carbon Emissions in Functional Urban Areas**
+
 Almost all African countries contribute less to GHGs globally
 
 ![image](fua.jpg)
@@ -28,7 +29,10 @@ Lybia is seen as the leading country whiles South Africa contributes more emissi
 ![image](both.jpg)
 
 8. **Conclusion**
+
 African is disaporpriately affect from the analysis.
+
+![image](hi.jpg)
 
 
 ## Contact 🔭
